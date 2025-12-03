@@ -9,8 +9,3 @@ Our team members of the group are:
 
 # Our Current Proejct is The Ship Eats.
 
-For the current time-being, the repository for MAL2020 has the following documents attached:
-1) Project Proposal
-2) LSEP Report
-3) YouTube Link
-4) Pebblepad Link
