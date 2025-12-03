@@ -9,3 +9,4 @@ Our team members of the group are:
 
 # Our Current Proejct is The Ship Eats.
 
+In this repository, it will include our fullstack application development  files.
