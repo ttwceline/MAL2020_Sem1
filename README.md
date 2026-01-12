@@ -1,4 +1,4 @@
-# MAL2020_Sem1
+# MAL2020
 Welcome to The ShipEats group.
 Our team members of the group are:
 1. Celine Tan Tze Wern BSCS2509249 
